@@ -1,0 +1,7 @@
+How to run this Project
+
+1. Extract the file and copy platform folder
+2.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
+3. Create a database with name platform
+4. Import platform.sql file(given inside the zip package in sql file folder)
+5.run the script http://localhost/platform (frontend)
